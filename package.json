@@ -16,9 +16,9 @@
   "author": "Ultimate Courses",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "7.5.5",
-    "@babel/preset-env": "7.5.5",
-    "@babel/register": "7.5.5",
+    "@babel/core": "7.22.9",
+    "@babel/preset-env": "7.22.9",
+    "@babel/register": "7.22.5",
     "babel-loader": "8.0.6",
     "css-loader": "3.2.0",
     "eslint": "6.3.0",
